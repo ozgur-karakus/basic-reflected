@@ -13,11 +13,11 @@
 </head>
 <body>
     <div class="container d-flex justify-content-center align-items-center" style="height: 100vh;">
-        <div class="col-md-6"> <!-- Ortalanmış kart -->
-            <div class="card"> <!-- Dış kart -->
+        <div class="col-md-6"> 
+            <div class="card">
                 <div class="card-body">
-                    <h3 class="card-title text-center text-white">Merhaba Admin</h3> <!-- Başlık -->
-                    <p class="text-center text-white">Tebrikler, SQL Injection başarılı.</p> <!-- Mesaj -->
+                    <h3 class="card-title text-center text-white">Merhaba Admin</h3>
+                    <p class="text-center text-white">Tebrikler, SQL Injection başarılı.</p>
                 </div>
             </div>
         </div>
